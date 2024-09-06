@@ -27,4 +27,3 @@ Scikit-learn 🔍
 📊 Visualizations
 Pair plots for understanding relationships between features.
 Confusion matrix to evaluate the performance of the Random Forest classifier.
-🚀 How to Run
